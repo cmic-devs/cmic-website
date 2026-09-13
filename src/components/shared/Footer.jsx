@@ -183,7 +183,7 @@ export default function Footer() {
                     style={{ fontFamily: "'Nunito Sans', sans-serif", fontWeight: 600 }}
                   >
                     <Mail className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                    <span>info@carbonsonminerals.in</span>
+                    <span>info@carbonson.in</span>
                   </a>
                 </li>
                 <li>

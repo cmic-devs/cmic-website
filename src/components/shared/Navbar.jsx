@@ -204,7 +204,7 @@ export default function Navbar() {
               className="flex items-center gap-4 sm:gap-6 text-white/90 uppercase tracking-wide"
               style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, letterSpacing: '0.06em' }}
             >
-              <a href="/information" className="hover:text-white transition-colors hidden md:block">Information Hub</a>
+              <a href="/about" className="hover:text-white transition-colors hidden md:block">Information Hub</a>
               <a href="/career"      className="hover:text-white transition-colors hidden sm:block">Career</a>
               <a href="/login"       className="hover:text-white transition-colors">Customer Login</a>
             </div>
